@@ -80,4 +80,21 @@ margin: 0 10em;
     padding: 2em;
 }
 
-5
+.descricao titulo {
+font-weight: 700;
+font-size: 48px;
+color: var(--branco-principal);
+margin-bottom: 0.1em;
+
+}
+.descricao texto {
+color: var(--cinza-secundario);
+}
+descricao texto {
+color: var(--cinza-secundario);
+}
+
+.secundario botao {
+display: inline-block;
+margin-top: 1em;
+}
