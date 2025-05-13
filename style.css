@@ -56,26 +56,11 @@ body {
  text-decoration: none;
  margin-bottom: 1em;
 }
-
-.botao_secundario {
- background-color: transparent;
- border: 2px solid var(--branco-principal)
-}
-
-.container_aviso {
-font-size: 12px;
- color: var(--cinza-secundario);
- }
-
- .secundario {
+.secundario {
 align-items: center;
 margin: 0 10em;
-
-}
-.secundario imagem {
-width: 80%;
 }
 
-.container descricao {
-padding: 2em;
+.secundario__imagem{
+    width: 80%;
 }
